@@ -1,9 +1,9 @@
 body {
-    font-family: "ubuntu", sans-serif;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
     font-weight: 400;
     color: #333;
     line-height: 1.6;
-    font-size: 16px;
+    font-size: 17px;
 }
 
 a, a:hover {
@@ -89,14 +89,14 @@ a:hover {
 }
 
 h1,h2,h3,h4,h5,h6 {
-    font-family: raleway,sans-serif;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
     line-height: 1.2;
     color: #333;
-    font-weight: 200;
+    font-weight: 400;
 }
 
 h1 {
-    font-size: 2.75rem;
+    font-size: 2.5rem;
 }
 
 h2 {
@@ -273,7 +273,7 @@ ul {
 .recent-posts .posts .post .meta,
 .post .post-header .meta,
 .list .posts .post .meta {
-    font-size: 0.725rem;
+    font-size: 1rem;
     color: #999;
     margin-bottom: 4px;
 }
